@@ -1,10 +1,9 @@
+Changes
 LICENSE
 MANIFEST
 META.yml
 Makefile.PL
 README
-cmds.txt
-dist.ini
 lib/Plack/Middleware/ReverseProxyPath.pm
 t/00.load.t
 t/author-critic.t

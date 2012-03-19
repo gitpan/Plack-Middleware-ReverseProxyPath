@@ -3,7 +3,7 @@ package Plack::Middleware::ReverseProxyPath;
 use strict;
 use warnings;
 use parent qw(Plack::Middleware);
-our $VERSION = '0.01';
+our $VERSION = '0.03';
 
 sub call {
     my $self = shift;
